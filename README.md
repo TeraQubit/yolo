@@ -2,10 +2,12 @@
 
 Poject Structure:
 <pre>
+│
 ├── yolo
 │   ├── coco.names
 │   ├── yolov3.cfg
 │   └── yolov3.weights
+│
 └── yolo_camera.py
 </pre>
 
